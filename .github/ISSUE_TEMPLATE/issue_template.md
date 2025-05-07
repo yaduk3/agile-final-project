@@ -1,5 +1,5 @@
 ---
-name: ISSUE_TEMPLATE
+name: USER_STORY
 about: This template is for creating user stories
 title: ''
 labels: ''
